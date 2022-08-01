@@ -26,7 +26,7 @@ cargo compete test <問題>
 cargo compete submit <問題>
 ```
 
-##　参考
+## 参考
 - https://qiita.com/okaponta_/items/7e82de5d1f78f547fe4b
 - https://jp.magicode.io/shunnya0715/articles/9734ba4922894b329a756b6f3592e8ed
 
